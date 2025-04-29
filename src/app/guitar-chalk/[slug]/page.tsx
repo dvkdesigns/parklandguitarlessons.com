@@ -11,7 +11,7 @@ export async function generateStaticParams() {
 }
 
 // ✅ SEO / OG / Twitter meta generator
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: any): Promise<Metadata> {
   const post = getPostBySlug(params.slug);
   if (!post) return {};
 
@@ -45,7 +45,8 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   };
 }
 
-export default async function BlogPost({ params }: { params: { slug: string } }) {
+// ✅ Correct page component
+export default async function BlogPost({ params }: any) {
   const post = await getPostHtml(params.slug);
   if (!post) return notFound();
 
@@ -57,14 +58,14 @@ export default async function BlogPost({ params }: { params: { slug: string } })
     "datePublished": post.meta.date,
     "author": {
       "@type": "Person",
-      "name": "Dan Kariamis" // Replace with your name or brand
+      "name": "Dan Kariamis"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Parkland Guitar Lessons",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://www.parklandguitarlessons.com/logo.png" // Replace with your actual logo
+        "url": "https://www.parklandguitarlessons.com/logo.png"
       }
     },
     "image": post.meta.image || `https://www.parklandguitarlessons.com/og/${params.slug}.jpg`,
@@ -76,7 +77,6 @@ export default async function BlogPost({ params }: { params: { slug: string } })
 
   return (
     <>
-      {/* ✅ Inject JSON-LD structured data for Article */}
       <Script
         id={`ld-post-${params.slug}`}
         type="application/ld+json"
@@ -86,9 +86,13 @@ export default async function BlogPost({ params }: { params: { slug: string } })
 
       <article className="max-w-6xl mx-auto p-8 prose">
         <h1 className="text-lg text-orange-600">{post.meta.title}</h1>
-        <img src={post.meta.image} alt={post.meta.title} className="my-8 max-w-sm h-auto rounded float-right" />
-
-
+        {post.meta.image && (
+          <img
+            src={post.meta.image}
+            alt={post.meta.title}
+            className="my-8 max-w-sm h-auto rounded float-right"
+          />
+        )}
         <p className="text-sm text-gray-500 mb-8">{post.meta.date}</p>
         <div dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       </article>
