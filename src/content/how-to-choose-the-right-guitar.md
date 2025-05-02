@@ -37,7 +37,7 @@ The key is that the guitar feels good in your hands — comfort makes learning s
 ## Need Help Choosing?
 
 Still not sure? No problem.  
-During your first [lesson at Parkland Guitar Lessons](/personalized-guitar-lessons), we’ll talk about your goals, music taste, and find the perfect guitar to kick off your journey.
+During your first [lesson at Parkland Guitar Lessons](/), we’ll talk about your goals, music taste, and find the perfect guitar to kick off your journey.
 
 ---
 

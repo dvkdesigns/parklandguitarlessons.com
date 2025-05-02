@@ -20,8 +20,7 @@ Ready to level up your lead playing? Let’s talk about how to break out of the 
 There are five common pentatonic positions, but beginners often stick to just one. Learning to connect them up and down the neck opens up tons of melodic options.
 
 **Fix:**  
-Practice linking adjacent pentatonic patterns, focusing on root notes and common licks that flow between positions. It’s not just about memorization—it’s about fluidity.  
-👉 [Fretboard Mapping for Lead Guitarists](/blog/fretboard-mapping-for-lead-guitarists)
+Practice linking adjacent pentatonic patterns, focusing on root notes and common licks that flow between positions. It’s not just about memorization—it’s about fluidity.
 
 ## 2. Add Major and Modal Notes
 
@@ -49,13 +48,12 @@ Listen to guitarists like David Gilmour, B.B. King, or John Mayer. Notice how th
 The fastest way to get unstuck is to apply new ideas in context. Backing tracks help you practice scales, transitions, and phrasing with real music.
 
 **Fix:**  
-Grab a backing track in A minor or E major and focus on one new concept at a time. Record yourself to hear what’s working and what’s not.  
-👉 [Best Backing Tracks for Practice](/blog/best-backing-tracks-for-practice)
+Grab a backing track in A minor or E major and focus on one new concept at a time. Record yourself to hear what’s working and what’s not.
 
 ## Want Personalized Feedback?
 
 If you’re tired of playing the same licks, custom lessons can help you target your weak spots and unlock new levels of creativity.  
 [Parkland Guitar Lessons](/) offers personalized instruction based on your skill level and goals.  
-🎸 [Explore Intermediate Guitar Lessons in Parkland](/intermediate-guitar-lessons-parkland)
+🎸 [Explore Intermediate Guitar Lessons in Parkland](/)
 
 ---

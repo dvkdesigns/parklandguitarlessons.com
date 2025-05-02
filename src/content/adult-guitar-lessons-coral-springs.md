@@ -49,4 +49,4 @@ If you're based near [Parkland](/guitar-lessons-parkland-fl/) or [Coconut Creek]
 
 ## Take the First Step Today
 
-It’s never too late to start learning guitar. Many of our adult students in Coral Springs are in their 30s, 50s, or even 70s—and they’re loving every minute of it. [Book your first lesson today](/guitar-lesson-signup) and start your musical journey the right way.
+It’s never too late to start learning guitar. Many of our adult students in Coral Springs are in their 30s, 50s, or even 70s—and they’re loving every minute of it. [Book your first lesson today](/contact) and start your musical journey the right way.

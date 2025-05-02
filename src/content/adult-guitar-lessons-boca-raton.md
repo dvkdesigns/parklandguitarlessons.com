@@ -54,4 +54,4 @@ Virtual options are also available if you'd prefer to meet online or travel freq
 
 ## Book Your First Lesson Today
 
-You’re never too old to start playing guitar. Whether you're 30, 50, or 70, we have students at every age enjoying music and progressing at their own pace. [Book your first lesson today](/guitar-lesson-signup) and take the first step toward making your musical goals a reality.
+You’re never too old to start playing guitar. Whether you're 30, 50, or 70, we have students at every age enjoying music and progressing at their own pace. [Book your first lesson today](/contact) and take the first step toward making your musical goals a reality.

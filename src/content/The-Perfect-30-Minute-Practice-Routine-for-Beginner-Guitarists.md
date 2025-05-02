@@ -23,20 +23,16 @@ Start with basic finger exercises to improve flexibility and coordination. Try t
 Focus on switching between basic open chords such as C, G, D, and E minor. Play each chord cleanly, ensuring no muted or buzzing strings. Set a metronome to a slow tempo and gradually increase the speed as you improve.
 
 **Strumming Practice:**  
-Strumming patterns are just as important, so practice basic downstrokes and upstrokes to develop rhythm and timing.  
-Need help with your strumming? [Check out our strumming guide](/strumming-techniques).
+Strumming patterns are just as important, so practice basic downstrokes and upstrokes to develop rhythm and timing.
 
 ## Scales & Picking (5 Minutes)
 
-Practicing scales improves finger strength and helps with lead guitar playing.  
-The [minor pentatonic scale](/pentatonic-scale-guide) is a great starting point for beginners.  
-Focus on alternate picking to keep your movements efficient.
+Practicing scales improves finger strength and helps with lead guitar playing.
 
 ## Learn & Play a Song (7 Minutes)
 
 Choose an easy song that uses the chords you’ve been practicing.  
-Playing songs is one of the best ways to stay motivated and apply what you’ve learned in a musical context.  
-Our [beginner song recommendations](/beginner-song-list) provide great options to start with.
+Playing songs is one of the best ways to stay motivated and apply what you’ve learned in a musical context.
 
 ## Cool Down & Review (3 Minutes)
 
@@ -47,7 +43,7 @@ Setting small goals for the next session helps maintain steady progress.
 ## Stay Consistent
 
 Consistency is key when learning guitar. Practicing daily, even for just 30 minutes, will yield significant improvements over time.  
-If you’re looking for [personalized guitar lessons](/personalized-guitar-lessons) to accelerate your progress, we can help you build a customized learning plan.
+If you’re looking for [personalized guitar lessons](/) to accelerate your progress, we can help you build a customized learning plan.
 
 Want to dive deeper into technique and music theory?  
 Check out this [comprehensive beginner’s guide](https://www.justinguitar.com) to supplement your practice routine.

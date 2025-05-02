@@ -49,4 +49,4 @@ Live closer to [Parkland](/guitar-lessons-parkland-fl/)? We also offer [in-home 
 
 ## Start Playing Guitar This Week
 
-It’s never too late to pick up a guitar and enjoy the process of learning. Whether you're 35, 55, or 75, we’ve helped adults of all ages find joy, expression, and progress through music. [Book your first lesson today](/guitar-lesson-signup) and take the first step toward your musical goals.
+It’s never too late to pick up a guitar and enjoy the process of learning. Whether you're 35, 55, or 75, we’ve helped adults of all ages find joy, expression, and progress through music. [Book your first lesson today](/contact) and take the first step toward your musical goals.
