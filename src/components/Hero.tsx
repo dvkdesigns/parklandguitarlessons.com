@@ -39,7 +39,9 @@ export default function Hero({ title, subtitle, herocopy1, herocopy2,herocopy3, 
           <img
             src={imageSrc}
             alt="Hero"
-            className="w-full h-auto object-contain pointer-events-none"
+            width={800}
+  height={600}
+            className="w-full h-auto object-contain pointer-events-none hero-image"
           />
         </div>
       )}
