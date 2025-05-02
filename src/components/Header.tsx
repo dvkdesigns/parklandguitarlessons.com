@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { FaFacebookF, FaInstagram } from 'react-icons/fa';
+import { FaFacebookF } from 'react-icons/fa';
 import ButtonLink from './ButtonLink';
 
 export default function Header() {

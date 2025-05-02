@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { FaFacebookF, FaInstagram } from 'react-icons/fa';
+import { FaFacebookF } from 'react-icons/fa';
 
 export default function Footer() {
   return (
@@ -31,9 +31,7 @@ export default function Footer() {
             <Link href="https://www.facebook.com/parklandguitarlessons" target="_blank" aria-label="Facebook">
               <FaFacebookF className="hover:text-blue-400 transition" />
             </Link>
-            <Link href="https://www.instagram.com/parklandguitarlessons" target="_blank" aria-label="Instagram">
-              <FaInstagram className="hover:text-pink-400 transition" />
-            </Link>
+
           </div>
         </div>
       </div>
