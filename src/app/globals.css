@@ -28,6 +28,6 @@ body {
 article {h2, h3, h4 {margin-top: 20px; font-weight: bold; font-size: 20px;} hr {margin: 20px 0px;} a {color:rgb(184, 98, 0);} }
 
 
-@media (max-width: 900px) {
+
   .hero-image {display: none;}
-}
+
