@@ -15,10 +15,12 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
+export const metadata: Metadata = {
+  metadataBase: new URL('https://www.parklandguitarlessons.com'),
   title: 'Parkland Guitar Lessons',
   description: 'Private Guitar Lessons in Parkland FL & Nearby Cities',
 };
+
 
 export default function RootLayout({
   children,

@@ -1,0 +1,8 @@
+{
+    "redirects": [
+      { "source": "http://www.parklandguitarlessons.com/:path*", "destination": "https://parklandguitarlessons.com/:path*", "permanent": true },
+      { "source": "http://parklandguitarlessons.com/:path*", "destination": "https://parklandguitarlessons.com/:path*", "permanent": true },
+      { "source": "https://www.parklandguitarlessons.com/:path*", "destination": "https://parklandguitarlessons.com/:path*", "permanent": true }
+    ]
+  }
+  
