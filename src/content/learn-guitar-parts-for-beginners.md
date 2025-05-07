@@ -8,7 +8,7 @@ mainImage: /images/guitar-parts-diagram.svg
 metaDescription: "Master the basics with this beginner's guide to learning all the key parts of your acoustic or electric guitar, from headstock to bridge."
 metaTitle: "Learn the Parts of the Guitar - Essential Beginner Guide"
 subtitle: "Master your instrument from the ground up—literally."
-title: "Learn the Parts of the Guitar: A Complete Beginner’s Guide"
+title: "Learn the Parts of the Guitar - A Complete Beginner’s Guide"
 ---
 
 Whether you just picked up your first acoustic or electric guitar, understanding the parts of your instrument is essential. Knowing the names and functions of each component not only makes learning easier but also helps when tuning, stringing, or talking to other musicians. This guide breaks it all down so you can play and communicate with confidence.

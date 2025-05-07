@@ -6,9 +6,9 @@ keywords:
   - learn guitar by ear
 mainImage: /images/ear-training.svg
 metaDescription: "Learn how to develop your musical ear with simple guitar-focused ear training exercises for beginners."
-metaTitle: "Ear Training for Guitar: A Beginner’s Guide | Parkland Guitar Lessons"
+metaTitle: "Ear Training for Guitar - A Beginner’s Guide | Parkland Guitar Lessons"
 subtitle: "Explains ear training exercises to recognize notes, chords, and scales."
-title: "How to Train Your Ear for Guitar: A Beginner’s Guide"
+title: "How to Train Your Ear for Guitar - A Beginner’s Guide"
 ---
 
 Most guitarists start their soloing journey with the minor pentatonic scale—and for good reason. It’s simple, sounds great, and fits in a lot of genres. But after a while, you might feel stuck in a “pentatonic box,” playing the same licks over and over.

@@ -6,9 +6,9 @@ keywords:
   - guitar ergonomics
 mainImage: /images/guitar-posture-guide.svg
 metaDescription: "Learn the correct sitting and standing posture for guitar playing to reduce pain, improve technique, and boost your progress as a beginner."
-metaTitle: "Guitar Posture: How to Sit and Stand for Comfortable Playing"
+metaTitle: "Guitar Posture - How to Sit and Stand for Comfortable Playing"
 subtitle: "Sit right, play better—how your posture shapes your sound and progress."
-title: "Guitar Posture: The Foundation of Great Playing"
+title: "Guitar Posture - The Foundation of Great Playing"
 ---
 
 When you start learning guitar, it’s tempting to focus all your energy on chords and strumming. But there’s one foundational element that gets overlooked by many beginners—posture. Good posture not only makes playing more comfortable, but also improves accuracy, reduces fatigue, and helps prevent injury.

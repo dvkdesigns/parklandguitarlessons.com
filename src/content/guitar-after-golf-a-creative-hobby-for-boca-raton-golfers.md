@@ -1,5 +1,4 @@
 ---
-
 date: "2025-05-07"
 keywords:
   - guitar for golfers Boca Raton
@@ -7,9 +6,9 @@ keywords:
   - country club music activities
 mainImage: /images/golf-guitar-boca.svg
 metaDescription: Why Boca Raton golfers are turning to guitar as the perfect creative outlet after time on the green.
-metaTitle: "Guitar After Golf: A Creative Hobby for Boca Raton Golfers"
+metaTitle: "Guitar After Golf - A Creative Hobby for Boca Raton Golfers"
 subtitle: Improve rhythm, focus, and unwind with music
-title: Guitar After Golf: A Creative Hobby for Boca Raton Golfers
+title: Guitar After Golf - A Creative Hobby for Boca Raton Golfers
 ---
 
 Looking for something relaxing after your tee time? Guitar is the perfect post-golf hobby.

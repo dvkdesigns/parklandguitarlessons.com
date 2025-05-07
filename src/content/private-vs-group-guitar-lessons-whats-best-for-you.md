@@ -1,5 +1,4 @@
 ---
-
 date: "2025-05-07"
 keywords:
   - private guitar lessons Parkland
@@ -9,7 +8,7 @@ mainImage: /images/private-vs-group-lessons.svg
 metaDescription: Deciding between private and group guitar lessons? Discover which type best fits your learning style and goals.
 metaTitle: "Private vs. Group Guitar Lessons: What's Best for You? | Parkland Guitar Lessons"
 subtitle: Choose the right lesson format for your guitar learning journey
-title: Private vs. Group Guitar Lessons: What's Best for You?
+title: Private vs. Group Guitar Lessons - What's Best for You?
 ---
 
 Choosing between private and group guitar lessons in Parkland can greatly impact your learning experience.
