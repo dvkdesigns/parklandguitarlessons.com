@@ -5,6 +5,17 @@ import LatestBlogSection from '@/components/LatestBlogSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import CallToActionSection from '@/components/CallToActionSection';
 import PricingSection from '@/components/PricingSection';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'In-Home Guitar Lessons in Parkland | Parkland Guitar Lessons',
+  description: 'Private guitar lessons tailored to your goals. Serving Parkland, FL and surrounding areas. Book your first session today!',
+  alternates: {
+    canonical: 'https://www.parklandguitarlessons.com/',
+  },
+};
+
+
 
 export default function Home() {
   return (
