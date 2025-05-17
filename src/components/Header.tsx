@@ -32,11 +32,14 @@ export default function Header() {
           </div>
         </div>
 
-        {/* NAV LINKS 
-        <nav className="mt-4 flex justify-center gap-8 text-sm">
-          <Link href="/guitar-chalk" className="hover:underline">Blog</Link>
+
+        <nav className="mt-4 flex justify-center gap-8 text-sm text-black">
+          <Link href="/online-guitar-tuner" className="hover:underline">Tuner</Link>
+          <Link href="/online-metronome" className="hover:underline">Metronome</Link>
+          <Link href="/online-guitar-chord-library" className="hover:underline">Chord Library</Link>
+          <Link href="/guitar-chalk" className="hover:underline">Guitar Chalk</Link>
           <Link href="/contact" className="hover:underline">Contact</Link>
-        </nav>*/}
+        </nav>
       </div>
     </header>
   );
