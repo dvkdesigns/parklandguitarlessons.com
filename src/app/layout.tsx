@@ -28,7 +28,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head>
+
         <head>
         {/* Google Analytics Script */}
         <Script
@@ -44,7 +44,7 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      </head>
+
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
