@@ -16,6 +16,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
   if (!post) return {};
 
   const baseUrl = 'https://www.parklandguitarlessons.com';
+    const canonicalUrl = `${baseUrl}/guitar-chalk/${params.slug}`;
   const imageUrl = post.meta.image || `${baseUrl}/og/${params.slug}.jpg`;
 
   return {
@@ -24,7 +25,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
     openGraph: {
       title: post.meta.title,
       description: post.meta.description,
-      url: `${baseUrl}/guitar-chalk/${params.slug}`,
+      url: canonicalUrl,
       type: 'article',
       siteName: 'Parkland Guitar Lessons',
       images: [
