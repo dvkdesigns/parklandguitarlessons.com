@@ -24,20 +24,32 @@ const cityData: Record<string, CityContent> = {
   'guitar-lessons-deerfield-beach-fl': { name: 'Deerfield Beach', subtitle: 'Fun, skill-based lessons from a patient and experienced teacher', description: 'In Deerfield Beach, we help aspiring guitarists develop musical confidence...' },
 };
 
-// ✅ Correct generateMetadata with NO TYPING
 export async function generateMetadata({ params }: any): Promise<Metadata> {
   const city = cityData[params.city];
+
+  const baseUrl = 'https://www.parklandguitarlessons.com';
+  const path = `/guitar-lessons/${params.city}`;
+  const canonicalUrl = `${baseUrl}${path}`;
+
   if (!city) {
     return {
       title: 'Guitar Lessons | Parkland Guitar Lessons',
       description: 'Find personalized, in-home guitar lessons in South Florida.',
+      alternates: {
+        canonical: `${baseUrl}/guitar-lessons`, // fallback canonical
+      },
     };
   }
+
   return {
     title: `Guitar Lessons in ${city.name} | Parkland Guitar Lessons`,
     description: city.description,
+    alternates: {
+      canonical: canonicalUrl,
+    },
   };
 }
+
 
 // ✅ Correct page component with NO TYPING
 export default async function CityPage({ params }: any) {
