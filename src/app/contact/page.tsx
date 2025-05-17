@@ -1,6 +1,15 @@
 "use client";
-
+import { Metadata } from 'next';
 import { useState } from "react";
+
+export const metadata: Metadata = {
+  title: 'Contact | Parkland Guitar Lessons',
+  description:
+    'Have questions about guitar lessons in Parkland, FL? Reach out using the contact form and get a response within 24 hours.',
+  alternates: {
+    canonical: 'https://www.parklandguitarlessons.com/contact',
+  },
+};
 
 export default function ContactPage() {
   const [status, setStatus] = useState("idle");
