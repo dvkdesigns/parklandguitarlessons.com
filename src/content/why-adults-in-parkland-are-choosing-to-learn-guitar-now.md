@@ -4,7 +4,7 @@ keywords:
   - adult guitar lessons Parkland
   - guitar classes for adults
   - benefits of learning guitar
-mainImage: /images/adults-learning-guitar.svg
+mainImage: /images/adults-learning-guitar.webp
 metaDescription: Adults in Parkland are discovering the incredible benefits of learning guitar, from stress relief to cognitive boosts.
 metaTitle: "Why Adults in Parkland Are Choosing to Learn Guitar Now | Parkland Guitar Lessons"
 subtitle: Uncover the surprising benefits of picking up guitar later in life

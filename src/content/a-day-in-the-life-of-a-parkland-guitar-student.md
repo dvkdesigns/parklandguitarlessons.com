@@ -4,7 +4,7 @@ keywords:
   - Parkland guitar tutor
   - guitar lessons Parkland
   - guitar student experience
-mainImage: /images/day-in-life-student.svg
+mainImage: /images/day-in-life-student.webp
 metaDescription: Experience a day in the life of a guitar student at Parkland Guitar Lessons and discover why our approach is loved by learners.
 metaTitle: "A Day in the Life of a Parkland Guitar Student | Parkland Guitar Lessons"
 subtitle: See what makes our guitar lessons special

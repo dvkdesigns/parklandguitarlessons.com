@@ -6,7 +6,7 @@ keywords:
   - guitar student showcase
   - Parkland guitar teacher
   - recital preparation tips
-mainImage: /images/guitar-recital.svg
+mainImage: /images/guitar-recital.webp
 metaDescription: Discover how Parkland Guitar Lessons organizes student recitals, builds confidence, and connects the community through music.
 metaTitle: "Organizing Student Recitals in Parkland | Parkland Guitar Lessons"
 subtitle: How recitals boost confidence and community among guitar students

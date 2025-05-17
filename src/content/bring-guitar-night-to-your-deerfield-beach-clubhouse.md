@@ -4,7 +4,7 @@ keywords:
   - clubhouse music nights Deerfield
   - HOA guitar programs
   - guitar jam events
-mainImage: /images/clubhouse-guitar-deerfield.svg
+mainImage: /images/clubhouse-guitar-deerfield.webp
 metaDescription: Learn how to plan a successful group guitar class or jam session in your Deerfield Beach clubhouse.
 metaTitle: "Bring Guitar Night to Your Deerfield Beach Clubhouse"
 subtitle: A lively new option for your resident events calendar

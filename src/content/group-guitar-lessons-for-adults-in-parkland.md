@@ -4,7 +4,7 @@ keywords:
   - group guitar lessons for adults near me
   - group guitar classes Parkland
   - adult group guitar lessons
-mainImage: /images/group-guitar-lessons.svg
+mainImage: /images/group-guitar-lessons.webp
 metaDescription: Discover the benefits of group guitar lessons in Parkland for adults looking to learn guitar in a fun, social environment.
 metaTitle: "Group Guitar Lessons for Adults in Parkland | Parkland Guitar Lessons"
 subtitle: Learn to play guitar with others and stay motivated

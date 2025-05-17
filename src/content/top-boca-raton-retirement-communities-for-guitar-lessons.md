@@ -4,7 +4,7 @@ keywords:
   - senior guitar lessons Boca
   - active adult communities music
   - 55+ group lessons
-mainImage: /images/senior-guitar-boca.svg
+mainImage: /images/senior-guitar-boca.webp
 metaDescription: Discover the top Boca Raton retirement communities where seniors are enjoying guitar lessons as a fun, social activity.
 metaTitle: "Top Boca Raton Retirement Communities for Guitar Lessons"
 subtitle: Building new skills and friendships through music

@@ -4,7 +4,7 @@ keywords:
   - Essential guitar care
   - guitar maintenance Florida
   - guitar upkeep tips
-mainImage: /images/guitar-care-florida.svg
+mainImage: /images/guitar-care-florida.webp
 metaDescription: Protect your guitar from Florida's humid climate with these essential maintenance tips from Parkland Guitar Lessons.
 metaTitle: "Essential Tips for Maintaining Your Guitar in Florida's Climate | Parkland Guitar Lessons"
 subtitle: Keep your instrument in top shape despite humidity and heat

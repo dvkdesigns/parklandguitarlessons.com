@@ -4,7 +4,7 @@ keywords:
   - Adult Guitar Lessons Coconut Creek
   - Guitar Lessons for Adults Coconut Creek
   - Beginner Guitar Classes for Adults
-mainImage: /images/adult-guitar-coconut-creek.svg
+mainImage: /images/adult-guitar-coconut-creek.webp
 metaDescription: "Looking for adult guitar lessons in Coconut Creek? We offer in-home and virtual lessons customized for beginners, hobbyists, and adults returning to guitar. Book your first session today!"
 metaTitle: "Adult Guitar Lessons in Coconut Creek | In-Home or Virtual"
 subtitle: "Relaxed, personalized guitar instruction made just for adults"

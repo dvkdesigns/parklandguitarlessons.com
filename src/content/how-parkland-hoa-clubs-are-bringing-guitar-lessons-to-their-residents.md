@@ -4,7 +4,7 @@ keywords:
   - guitar lessons Parkland
   - HOA guitar classes
   - group music lessons in communities
-mainImage: /images/hoa-guitar-lessons.svg
+mainImage: /images/hoa-guitar-lessons.webp
 metaDescription: Discover how HOAs and neighborhood clubs in Parkland are enriching their communities with on-site guitar lessons for residents.
 metaTitle: "How Parkland HOA Clubs Are Bringing Guitar Lessons to Their Residents"
 subtitle: A new favorite amenity for adults and families alike

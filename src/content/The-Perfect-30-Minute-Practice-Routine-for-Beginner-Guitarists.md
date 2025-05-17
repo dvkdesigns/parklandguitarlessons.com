@@ -4,7 +4,7 @@ keywords:
   - guitar practice routine
   - beginner guitar exercises
   - daily guitar schedule
-mainImage: /images/practice-chart.svg
+mainImage: /images/practice-chart.webp
 metaDescription: Discover the ideal 30-minute daily practice routine for beginner guitarists to build technique, improve chord transitions, and stay motivated.
 metaTitle: "30-Minute Practice Routine for Beginner Guitarists | Parkland Guitar Lessons"
 subtitle: How to structure a daily practice session to build muscle memory and technique.

@@ -4,7 +4,7 @@ keywords:
   - guitar for golfers Boca Raton
   - music after golf
   - country club music activities
-mainImage: /images/golf-guitar-boca.svg
+mainImage: /images/golf-guitar-boca.webp
 metaDescription: Why Boca Raton golfers are turning to guitar as the perfect creative outlet after time on the green.
 metaTitle: "Guitar After Golf - A Creative Hobby for Boca Raton Golfers"
 subtitle: Improve rhythm, focus, and unwind with music

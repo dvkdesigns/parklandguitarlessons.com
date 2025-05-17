@@ -4,7 +4,7 @@ keywords:
   - choose guitar for beginner
   - acoustic vs electric guitar
   - best beginner guitar
-mainImage: /images/acoustic-vs-electric.svg
+mainImage: /images/acoustic-vs-electric.webp
 metaDescription: Not sure which guitar to start with? Learn how to choose the perfect acoustic or electric guitar for your first lessons.
 metaTitle: "How to Choose the Right Guitar for Beginners | Parkland Guitar Lessons"
 subtitle: Covers technique, timing, and common pitfalls like bad finger placement.

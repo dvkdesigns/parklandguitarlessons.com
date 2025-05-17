@@ -4,7 +4,7 @@ keywords:
   - active adult music ideas
   - creative hobbies for adults Parkland
   - group hobbies Parkland FL
-mainImage: /images/music-hobby-for-adults.svg
+mainImage: /images/music-hobby-for-adults.webp
 metaDescription: Looking for a creative, social, and rewarding hobby? Learn why guitar is the #1 musical activity adults in Parkland are picking up.
 metaTitle: "The Best Musical Hobby for Active Adults in Parkland"
 subtitle: Creative, fun, and full of benefits at any age

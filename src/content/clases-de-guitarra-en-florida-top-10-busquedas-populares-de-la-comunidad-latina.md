@@ -6,7 +6,7 @@ keywords:
   - clases de guitarra para principiantes
   - clases de guitarra en español
   - profesor de guitarra
-mainImage: /images/latin-guitar-lessons.svg
+mainImage: /images/latin-guitar-lessons.webp
 metaDescription: Descubre las 10 palabras clave más buscadas por estudiantes latinos en Florida que desean aprender guitarra, con traducción al inglés y consejos útiles.
 metaTitle: "Clases de Guitarra en Florida - Top 10 búsquedas populares de la comunidad latina"
 subtitle: Palabras clave, consejos, y recursos para hispanohablantes que desean aprender guitarra en Florida

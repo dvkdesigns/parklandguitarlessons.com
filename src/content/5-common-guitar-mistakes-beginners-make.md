@@ -4,7 +4,7 @@ keywords:
   - guitar mistakes for beginners
   - learn guitar Parkland
   - guitar timing and technique
-mainImage: /images/guitar-mistakes.svg
+mainImage: /images/guitar-mistakes.webp
 metaDescription: Struggling with buzz, bad timing, or finger placement? Discover 5 common guitar mistakes beginners make and how to fix them for faster progress.
 metaTitle: "5 Common Guitar Mistakes Beginners Make | Parkland Guitar Lessons"
 subtitle: Avoid these pitfalls to improve faster and sound better

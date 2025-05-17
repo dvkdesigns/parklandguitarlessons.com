@@ -4,7 +4,7 @@ keywords:
   - Adult Guitar Lessons Boca Raton
   - In-home Guitar Instruction
   - Beginner Guitar Classes for Adults
-mainImage: /images/adult-guitar-boca.svg
+mainImage: /images/adult-guitar-boca.webp
 metaDescription: "Looking for adult guitar lessons in Boca Raton? We offer in-home and virtual guitar instruction customized for beginners and hobbyists. Book your first lesson today!"
 metaTitle: "Adult Guitar Lessons in Boca Raton | Personalized In-Home Lessons"
 subtitle: "Personalized, at-home lessons designed for adult beginners and hobbyists"

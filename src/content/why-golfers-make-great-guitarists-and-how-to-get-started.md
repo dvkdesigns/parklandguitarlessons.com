@@ -4,7 +4,7 @@ keywords:
   - guitar lessons for golfers
   - country club music instructor
   - music classes after golf
-mainImage: /images/golf-guitar-lessons.svg
+mainImage: /images/golf-guitar-lessons.webp
 metaDescription: Guitar and golf go hand-in-hand. Discover how golfers in Parkland are taking up music as a creative, relaxing post-round hobby.
 metaTitle: "Why Golfers Make Great Guitarists (And How to Get Started)"
 subtitle: Relax and build rhythm after a day on the course

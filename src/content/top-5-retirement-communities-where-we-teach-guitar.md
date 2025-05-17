@@ -4,7 +4,7 @@ keywords:
   - senior guitar lessons
   - 55+ guitar classes Parkland
   - active adult music programs
-mainImage: /images/senior-guitar-communities.svg
+mainImage: /images/senior-guitar-communities.webp
 metaDescription: Discover the retirement communities in South Florida where seniors are learning guitar and loving it — no experience needed!
 metaTitle: "Top 5 Retirement Communities Where We Teach Guitar"
 subtitle: Music keeps you young — and engaged

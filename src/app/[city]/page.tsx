@@ -103,7 +103,7 @@ export default async function CityPage({ params }: any) {
         subtitle={`Personalized Guitar Lessons for Beginners and Intermediates in ${city.name} and Surrounding Areas`}
         herocopy1={`Ready to start playing guitar in ${city.name}, Florida? Our expert-led in-home guitar lessons bring the music to you—right in your living room.`}
         herocopy3={`Book your first lesson in ${city.name} today and discover how stress-free, local, and inspiring in-home guitar lessons can be.`}
-        imageSrc="/images/hero.svg"
+        imageSrc="/images/hero.webp"
       />
       <InfoSection />
       <TestimonialsSection />

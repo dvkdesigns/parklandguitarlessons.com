@@ -4,7 +4,7 @@ keywords:
   - easy beginner guitar songs
   - guitar lessons Parkland FL
   - songs for kids to learn guitar
-mainImage: /images/easy-guitar-songs.svg
+mainImage: /images/easy-guitar-songs.webp
 metaDescription: "Discover 10 fun and easy songs we teach beginner guitar students in Parkland, FL. Build confidence and enjoy learning from your first lesson."
 metaTitle: "Top 10 Easy Songs for Beginners | Parkland Guitar Lessons"
 subtitle: "These beginner-friendly tunes help build confidence, rhythm, and fun from day one."

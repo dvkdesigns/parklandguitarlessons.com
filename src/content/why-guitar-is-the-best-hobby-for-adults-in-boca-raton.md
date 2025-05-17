@@ -4,7 +4,7 @@ keywords:
   - guitar hobby for adults
   - musical activities Boca Raton
   - learn guitar in Boca Raton
-mainImage: /images/music-hobby-boca.svg
+mainImage: /images/music-hobby-boca.webp
 metaDescription: Looking for the perfect creative hobby in Boca Raton? Guitar offers lifelong benefits for active adults.
 metaTitle: "Why Guitar Is the Best Hobby for Adults in Boca Raton"
 subtitle: Learn at any age, enjoy for life

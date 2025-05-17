@@ -4,7 +4,7 @@ keywords:
   - golfers learn guitar Deerfield
   - post-golf creative activities
   - country club guitar lessons
-mainImage: /images/golf-guitar-deerfield.svg
+mainImage: /images/golf-guitar-deerfield.webp
 metaDescription: Discover why guitar is the hobby of choice for many Deerfield Beach golfers looking to unwind after the course.
 metaTitle: "Why More Golfers in Deerfield Beach Are Picking Up the Guitar"
 subtitle: Music meets mindfulness after a long day on the green

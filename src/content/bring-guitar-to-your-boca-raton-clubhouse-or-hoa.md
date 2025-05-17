@@ -4,7 +4,7 @@ keywords:
   - music in clubhouse Boca
   - HOA group guitar
   - guitar events Boca Raton
-mainImage: /images/hoa-club-boca.svg
+mainImage: /images/hoa-club-boca.webp
 metaDescription: Hosting group guitar lessons or jam nights in your Boca Raton clubhouse? Here’s how to bring it to life.
 metaTitle: "Bring Guitar to Your Boca Raton Clubhouse or HOA"
 subtitle: Add creativity and connection to your resident events

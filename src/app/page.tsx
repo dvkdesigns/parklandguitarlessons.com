@@ -81,7 +81,7 @@ export default function Home() {
         herocopy3="Experience the joy of learning in a way that’s stress-free and
         effective. Book your first lesson today and take the first step toward
         unlocking your musical potential!"
-        imageSrc="/images/hero.svg" 
+        imageSrc="/images/hero.webp" 
       />
 
       <InfoSection />

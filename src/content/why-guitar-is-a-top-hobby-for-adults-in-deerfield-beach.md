@@ -4,7 +4,7 @@ keywords:
   - best hobby for adults Deerfield
   - creative group activities
   - learn music Deerfield Beach
-mainImage: /images/music-hobby-deerfield.svg
+mainImage: /images/music-hobby-deerfield.webp
 metaDescription: Want a creative, fun, and rewarding hobby in Deerfield Beach? Learn why more adults are choosing guitar.
 metaTitle: "Why Guitar Is a Top Hobby for Adults in Deerfield Beach"
 subtitle: Discover the joy and community that comes with playing music

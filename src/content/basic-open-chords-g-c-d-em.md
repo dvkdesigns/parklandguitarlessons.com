@@ -4,7 +4,7 @@ keywords:
   - basic open chords
   - G chord C chord D chord Em
   - beginner guitar chords
-mainImage: /images/basic-open-chords.svg
+mainImage: /images/basic-open-chords.webp
 metaDescription: "Learn the four essential open guitar chords — G, C, D, and Em. Perfect for beginners! Includes finger positions, tips, and practice ideas."
 metaTitle: "Beginner Guitar Chords: G, C, D & Em | Parkland Guitar Lessons"
 subtitle: "Master the foundation of thousands of songs with just four chords"

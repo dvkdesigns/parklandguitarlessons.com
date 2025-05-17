@@ -4,7 +4,7 @@ keywords:
   - guitar posture
   - how to sit with guitar
   - guitar ergonomics
-mainImage: /images/guitar-posture-guide.svg
+mainImage: /images/guitar-posture-guide.webp
 metaDescription: "Learn the correct sitting and standing posture for guitar playing to reduce pain, improve technique, and boost your progress as a beginner."
 metaTitle: "Guitar Posture - How to Sit and Stand for Comfortable Playing"
 subtitle: "Sit right, play better—how your posture shapes your sound and progress."

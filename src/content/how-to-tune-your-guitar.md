@@ -4,7 +4,7 @@ keywords:
   - guitar tuning
   - how to tune guitar
   - alternate guitar tunings
-mainImage: /images/guitar-fretboard-notes.svg
+mainImage: /images/guitar-fretboard-notes.webp
 metaDescription: "Learn standard guitar tuning, explore Drop D and half-step down, and discover how alternate tunings can expand your playing. Includes tuning diagram."
 metaTitle: "How to Tune Your Guitar + Alternate Tunings Explained"
 subtitle: "From standard tuning to Drop D and beyond—get in tune and stay there."
@@ -17,7 +17,7 @@ Tuning your guitar is the first step in sounding great. Whether you're a total b
 
 The most common tuning for a 6-string guitar is E-A-D-G-B-E, from the lowest (thickest) string to the highest (thinnest). This tuning is the foundation for most songs, chords, and scales. Here's a diagram of the guitar neck in standard tuning up to the 12th fret:
 
-![Standard tuning notes diagram for guitar](/images/guitar-fretboard-notes.svg)
+![Standard tuning notes diagram for guitar](/images/guitar-fretboard-notes.webp)
 
 ### Open Strings in Standard Tuning:
 

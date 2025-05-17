@@ -4,7 +4,7 @@ keywords:
   - HOA guitar classes
   - clubhouse music lessons
   - group music events Parkland
-mainImage: /images/hoa-clubhouse-lessons.svg
+mainImage: /images/hoa-clubhouse-lessons.webp
 metaDescription: Want to host a group guitar class or music event in your community clubhouse? Here’s how Parkland Guitar Lessons can help.
 metaTitle: "Bring Group Guitar Classes to Your Clubhouse or HOA"
 subtitle: An amenity residents will love and talk about

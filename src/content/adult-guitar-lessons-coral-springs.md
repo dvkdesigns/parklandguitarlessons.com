@@ -4,7 +4,7 @@ keywords:
   - Adult Guitar Lessons Coral Springs
   - Guitar Lessons for Adults Coral Springs
   - In-home Guitar Instruction Coral Springs
-mainImage: /images/adult-guitar-coral-springs.svg
+mainImage: /images/adult-guitar-coral-springs.webp
 metaDescription: "Looking for adult guitar lessons in Coral Springs, FL? Get customized in-home or online lessons built for your schedule and musical goals. Book your first session now."
 metaTitle: "Adult Guitar Lessons in Coral Springs | In-Home & Online"
 subtitle: "Customized, at-home guitar instruction for adults of all skill levels"

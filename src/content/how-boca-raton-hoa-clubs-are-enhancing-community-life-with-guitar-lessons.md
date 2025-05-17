@@ -4,7 +4,7 @@ keywords:
   - guitar lessons Boca Raton
   - HOA music activities
   - group guitar Boca Raton
-mainImage: /images/hoa-guitar-boca.svg
+mainImage: /images/hoa-guitar-boca.webp
 metaDescription: Learn how HOAs and neighborhood clubs in Boca Raton are boosting resident engagement with on-site guitar lessons.
 metaTitle: "How Boca Raton HOA Clubs Are Enhancing Community Life with Guitar Lessons"
 subtitle: Social music programs that build connection and creativity

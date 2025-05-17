@@ -4,7 +4,7 @@ keywords:
   - pentatonic box soloing
   - intermediate guitar lessons Parkland
   - guitar solo techniques
-mainImage: /images/pentatonic-breakout.svg
+mainImage: /images/pentatonic-breakout.webp
 metaDescription: Feeling stuck in the same pentatonic patterns? Learn how to break free and level up your solos with these practical tips for guitarists.
 metaTitle: Break Out of the Pentatonic Box and Solo Like a Pro
 subtitle: Take your solos from basic to pro-level with these scale-expanding tips

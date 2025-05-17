@@ -4,7 +4,7 @@ keywords:
   - senior music classes Deerfield
   - 55+ guitar lessons
   - beginner guitar for seniors
-mainImage: /images/senior-guitar-deerfield.svg
+mainImage: /images/senior-guitar-deerfield.webp
 metaDescription: Guitar is becoming a favorite activity among active adults in Deerfield Beach’s retirement communities.
 metaTitle: "Top Deerfield Beach Communities Offering Senior Guitar Lessons"
 subtitle: Discover music programs that promote joy, learning, and friendship

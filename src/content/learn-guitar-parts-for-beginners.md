@@ -4,7 +4,7 @@ keywords:
   - guitar parts
   - learn guitar anatomy
   - guitar beginner guide
-mainImage: /images/guitar-parts-diagram.svg
+mainImage: /images/guitar-parts-diagram.webp
 metaDescription: "Master the basics with this beginner's guide to learning all the key parts of your acoustic or electric guitar, from headstock to bridge."
 metaTitle: "Learn the Parts of the Guitar - Essential Beginner Guide"
 subtitle: "Master your instrument from the ground up—literally."
@@ -19,7 +19,7 @@ Imagine trying to learn to drive without knowing what a steering wheel or brake 
 
 ## The Main Parts of the Guitar (Both Acoustic & Electric)
 
-![Diagram of guitar parts for beginners](/images/guitar-parts-diagram.svg)
+![Diagram of guitar parts for beginners](/images/guitar-parts-diagram.webp)
 
 ## 1. Headstock
 

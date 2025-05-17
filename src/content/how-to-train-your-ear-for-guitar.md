@@ -4,7 +4,7 @@ keywords:
   - ear training guitar
   - guitar aural skills
   - learn guitar by ear
-mainImage: /images/ear-training.svg
+mainImage: /images/ear-training.webp
 metaDescription: "Learn how to develop your musical ear with simple guitar-focused ear training exercises for beginners."
 metaTitle: "Ear Training for Guitar - A Beginner’s Guide | Parkland Guitar Lessons"
 subtitle: "Explains ear training exercises to recognize notes, chords, and scales."
