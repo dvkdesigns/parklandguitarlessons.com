@@ -92,7 +92,10 @@ export default function Home() {
 
       <CallToActionSection />
 
-      <LatestBlogSection />
+      <LatestBlogSection
+  title="Featured Articles"
+  slugs={["how-to-choose-the-right-guitar", "The-Perfect-30-Minute-Practice-Routine-for-Beginner-Guitarists", "break-out-of-the-pentatonic-box", "clases-de-guitarra-en-florida-top-10-busquedas-populares-de-la-comunidad-latina", "essential-tips-for-maintaining-your-guitar-in-florida", "group-guitar-lessons-for-adults-in-parkland", "how-to-tune-your-guitar", "learn-guitar-parts-for-beginners", "top-10-easy-songs-we-teach-in-parkland-guitar-lessons"]}
+/>
     </>
   );
 }

@@ -4,10 +4,19 @@ import { getAllPosts } from '@/lib/blog';
 type Props = {
   title?: string;
   count?: number;
+  slugs?: string[]; // Optional: Specify exact posts to show
 };
 
-export default function LatestBlogSection({ title = 'Latest from the Blog', count = 9 }: Props) {
-  const posts = getAllPosts().slice(0, count);
+export default function LatestBlogSection({ title = 'Latest from the Blog', count = 9, slugs }: Props) {
+  let posts = getAllPosts();
+
+  if (slugs && slugs.length > 0) {
+    // Filter posts by specified slugs
+    posts = posts.filter((post) => slugs.includes(post.slug));
+  } else {
+    // Default to latest N posts
+    posts = posts.slice(0, count);
+  }
 
   return (
     <section className="py-16 px-6 max-w-5xl mx-auto">

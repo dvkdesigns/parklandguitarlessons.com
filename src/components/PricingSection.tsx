@@ -6,14 +6,29 @@ export default function PricingSection() {
       features: ["Monday-Friday", "10am to 3pm", "1-on-1 private session"],
     },
     {
-      name: "Weekly Lesson",
+      name: "Weekly Lessons",
       price: "$45",
       features: ["1-on-1 private session", "Flexible schedule", "Email/Text support"],
     },
     {
-      name: "Monthly Package",
-      price: "$160/mo",
-      features: ["4 online lessons", "Email/Text support", "Flexible schedule"],
+      name: "Virtual Lessons",
+      price: "$40",
+      features: ["Zoom or FaceTime", "real-time feedback", "Flexible schedule"],
+    },
+    {
+      name: "Duo Lessons (2 Students)",
+      price: "$45 per student",
+      features: ["4-session commitment", "printable handouts & practice guides", "45-minute session"],
+    },
+    {
+      name: "Small Group (3–5 Students)",
+      price: "$35 per student",
+      features: ["1-hour session", "Fun, interactive", "printable handouts & practice guides"],
+    },
+    {
+      name: "Large Group (6–10 Students)",
+      price: "$25 per student",
+      features: ["1-hour session", "Song-based learning", "Flexible schedule"],
     },
   ];
 
