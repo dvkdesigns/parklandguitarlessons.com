@@ -30,20 +30,25 @@ export default function RootLayout({
     <html lang="en">
 
         <head>
-        {/* Google Analytics Script */}
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-W7MB5Q62LC"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-W7MB5Q62LC');
-          `}
-        </Script>
-      </head>
+  {/* Google Analytics Script - Only load in production */}
+  {process.env.NODE_ENV === 'production' && (
+    <>
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-W7MB5Q62LC"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-W7MB5Q62LC');
+        `}
+      </Script>
+    </>
+  )}
+</head>
+
 
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
