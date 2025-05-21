@@ -7,7 +7,7 @@ export default function Header() {
     <header className="text-white">
       {/* TOP PROMO BAR */}
       <div className="bg-black text-xs text-center h-8 flex items-center justify-center px-4">
-        10% Off Weekday Classes: 10am-3pm Mon-Fri <ButtonLink href="/contact" label="Book a Free Lesson" size="sm" />
+        10% Off Weekday Classes: 10am-3pm Mon-Fri <ButtonLink href="/contact" label="Book a Lesson" size="sm" />
       </div>
 
       {/* MAIN NAV BAR */}
