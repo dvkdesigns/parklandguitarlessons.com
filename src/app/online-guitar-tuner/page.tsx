@@ -56,6 +56,8 @@ export default function TunerPage() {
       </div>
 
       <div className="max-w-4xl mx-auto px-4 py-10 text-base leading-relaxed text-gray-800">
+        If you're looking for a great clip on tuner, here is one I highly recommend:
+        <a href='https://amzn.to/3H3K4uV'>D'Addario Accessories Guitar Tuner - Eclipse Headstock Tuner - Clip On Tuner for Guitar - Great for Acoustic Guitars & Electric Guitars - Quick & Accurate Tuning - Black</a>
         <h2 className="text-2xl font-bold mb-4">🎸 Common Guitar Tunings Overview</h2>
 
         <h3 className="text-xl font-semibold mt-6 mb-2">1. Standard Tuning (E A D G B e)</h3>
