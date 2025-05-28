@@ -28,7 +28,7 @@ The most common tuning for a 6-string guitar is E-A-D-G-B-E, from the lowest (th
 - 2nd string – B
 - 1st string – E (high)
 
-You can tune your guitar using a clip-on tuner, a smartphone app, or by ear. For a deeper dive into developing your ear, check out [How to Train Your Ear for Guitar](https://parklandguitarlessons.com/guitar-chalk/how-to-train-your-ear-for-guitar/).
+You can tune your guitar using a clip-on tuner, a smartphone app, or by ear. For a deeper dive into developing your ear, check out [How to Train Your Ear for Guitar](https://www.parklandguitarlessons.com/guitar-chalk/how-to-train-your-ear-for-guitar/).
 
 ## How to Tune Your Guitar
 
@@ -84,6 +84,6 @@ Here’s how to prevent tuning drift:
 
 ## What’s Next?
 
-Tuning is just the beginning. Once you're in tune, you can focus on playing better and exploring new sounds. If you're a beginner looking to build strong habits, check out our [30-Minute Practice Routine](https://parklandguitarlessons.com/guitar-chalk/The-Perfect-30-Minute-Practice-Routine-for-Beginner-Guitarists/) or browse some of the [Top 10 Easy Songs We Teach](https://parklandguitarlessons.com/guitar-chalk/top-10-easy-songs-we-teach-in-parkland-guitar-lessons/).
+Tuning is just the beginning. Once you're in tune, you can focus on playing better and exploring new sounds. If you're a beginner looking to build strong habits, check out our [30-Minute Practice Routine](https://www.parklandguitarlessons.com/guitar-chalk/The-Perfect-30-Minute-Practice-Routine-for-Beginner-Guitarists/) or browse some of the [Top 10 Easy Songs We Teach](https://www.parklandguitarlessons.com/guitar-chalk/top-10-easy-songs-we-teach-in-parkland-guitar-lessons/).
 
-Ready to take your tuning and playing to the next level? [Book a private lesson with us](https://parklandguitarlessons.com/adult-guitar-lessons-parkland/) in Parkland or one of our nearby locations to get 1-on-1 guidance tailored to your goals.
+Ready to take your tuning and playing to the next level? [Book a private lesson with us](https://www.parklandguitarlessons.com/adult-guitar-lessons-parkland/) in Parkland or one of our nearby locations to get 1-on-1 guidance tailored to your goals.

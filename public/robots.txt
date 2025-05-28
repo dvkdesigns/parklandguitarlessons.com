@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://parklandguitarlessons.com
+Host: https://www.parklandguitarlessons.com
 
 # Sitemaps
-Sitemap: https://parklandguitarlessons.com/sitemap.xml
+Sitemap: https://www.parklandguitarlessons.com/sitemap.xml
