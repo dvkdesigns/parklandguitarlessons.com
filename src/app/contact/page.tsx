@@ -27,7 +27,7 @@ export default function ContactPage() {
         </div>
         <div className='co'>
           <div className="bg-gray-50 border rounded-lg p-4 text-sm">
-  <p><strong>Phone:</strong> (954) 555-1234</p>
+  <p><strong>Phone:</strong> (954) 249-8837</p>
   <p><strong>Based in:</strong> Parkland, FL</p>
   <p>Serving: Parkland, Coral Springs, Coconut Creek, Boca Raton & nearby</p>
 </div>
