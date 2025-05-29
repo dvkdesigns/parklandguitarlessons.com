@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 export default function ContactPage() {
   return (
     <div className="p-4 mx-auto max-w-7xl">
-      <h1 className="text-2xl font-bold mb-4">Contact Me</h1>
+      <h1 className="text-2xl font-bold mb-4">Contact Parkland Guitar Lessons</h1>
       <div className=' flex gap-4'>
         <div className='w-3/4'>
           <p className="mb-6 text-lg">
@@ -22,7 +22,7 @@ export default function ContactPage() {
 </p>
       <ContactForm />
       <p className="mb-6 text-lg mt-2">
-  Fill out the form below and I’ll get back to you within 24 hours. You can also text me directly at <strong>(954) 555-1234</strong> for a quicker response.
+  Fill out the form below and I’ll get back to you within 24 hours. You can also text me directly at <strong>(954) 249-8837</strong> for a quicker response.
 </p>
         </div>
         <div className='co'>
