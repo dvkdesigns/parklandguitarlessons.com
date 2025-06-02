@@ -27,7 +27,7 @@ Here are 5 of the most active retirement communities we work with to provide pri
 
 Read more:
 
-- [Why Adults in Parkland Are Choosing to Learn Guitar](https://www.parklandguitarlessons.com/guitar-chalk/adults-learning-guitar)
+- [Why Adults in Parkland Are Choosing to Learn Guitar](https://www.parklandguitarlessons.com/guitar-chalk/adult-guitar-lessons-parkland)
 - [Guitar Lessons in Coconut Creek](https://www.parklandguitarlessons.com/guitar-lessons-coconut-creek-fl)
 
 [Join a local class or schedule a private session](https://www.parklandguitarlessons.com/contact)

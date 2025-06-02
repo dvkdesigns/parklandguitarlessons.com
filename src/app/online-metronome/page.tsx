@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Online Guitar Metronome | Parkland Guitar Lessons',
   description: 'Use our free online metronome with adjustable BPM, time signatures, and a tap tempo feature—perfect for practicing guitar rhythm and timing.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/online-guitar-metronome',
+    canonical: 'https://www.parklandguitarlessons.com/online-metronome',
   },
 };
 

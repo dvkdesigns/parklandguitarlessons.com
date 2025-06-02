@@ -29,7 +29,7 @@ HOAs and neighborhood clubs across Parkland are enhancing their list of communit
 
 Explore related resources:
 
-- [Private vs. Group Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons)
+- [Private vs. Group Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons-whats-best-for-you-whats-best-for-you)
 - [A Day in the Life of a Parkland Guitar Student](https://www.parklandguitarlessons.com/guitar-chalk/a-day-in-the-life-of-a-parkland-guitar-student)
 - [Group Guitar Lessons in Parkland](https://www.parklandguitarlessons.com/guitar-chalk/group-guitar-lessons-for-adults-in-parkland)
 

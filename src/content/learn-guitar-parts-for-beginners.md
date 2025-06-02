@@ -85,4 +85,4 @@ Once you’re familiar with your guitar’s anatomy, you’ll be able to:
 Learning the parts of your guitar is like getting to know a new friend. The better you know it, the more it will give back to you—through tone, ease of play, and creative joy.
 
 **Ready to take the next step?**  
-Explore our [Beginner Strumming Patterns](/guitar-chalk/beginner-strumming-patterns) or [How to Tune Your Guitar](/guitar-chalk/how-to-tune-your-guitar) articles for your next skill boost.
+Explore our [Beginner Strumming Patterns](/guitar-chalk/online-strumming-patterns) or [How to Tune Your Guitar](/guitar-chalk/how-to-tune-your-guitar) articles for your next skill boost.

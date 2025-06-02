@@ -26,6 +26,6 @@ Let your residents explore guitar in a fun, no-pressure environment.
 Helpful posts:
 
 - [Guitar After Golf](https://www.parklandguitarlessons.com/guitar-chalk/guitar-after-golf-a-creative-hobby-for-boca-raton-golfers)
-- [Private vs. Group Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons)
+- [Private vs. Group Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons-whats-best-for-you-whats-best-for-you)
 
 ---

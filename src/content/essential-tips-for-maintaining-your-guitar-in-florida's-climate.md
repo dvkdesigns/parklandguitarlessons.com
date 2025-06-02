@@ -35,6 +35,6 @@ Annual professional adjustments keep your guitar sounding great. Consider schedu
 
 Need more advice or looking for professional guitar lessons? Contact us at [Parkland Guitar Lessons](https://www.parklandguitarlessons.com/contact) today!
 
-Explore more about our [private guitar lessons in Parkland](https://www.parklandguitarlessons.com/private-guitar-lessons).
+Explore more about our [private guitar lessons in Parkland](https://www.parklandguitarlessons.com/private-vs-group-guitar-lessons-whats-best-for-you).
 
 [Book Your Guitar Maintenance Session Today](https://www.parklandguitarlessons.com/contact)

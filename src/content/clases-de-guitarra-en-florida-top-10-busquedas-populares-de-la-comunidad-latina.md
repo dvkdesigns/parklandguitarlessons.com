@@ -48,7 +48,7 @@ Enlaces internos:
 - [Cómo afinar tu guitarra](https://www.parklandguitarlessons.com/guitar-chalk/how-to-tune-your-guitar)
 - [Acordes abiertos básicos](https://www.parklandguitarlessons.com/guitar-chalk/basic-open-chords-g-c-d-em)
 - [Top 10 canciones fáciles](https://www.parklandguitarlessons.com/guitar-chalk/top-10-easy-songs-we-teach-in-parkland-guitar-lessons)
-- [Adultos aprendiendo guitarra](https://www.parklandguitarlessons.com/guitar-chalk/adults-learning-guitar)
+- [Adultos aprendiendo guitarra](https://www.parklandguitarlessons.com/guitar-chalk/adult-guitar-lessons-parkland)
 
 Además, puedes leer este artículo complementario: <a href="https://muzikalia.com/beneficios-aprender-tocar-la-guitarra/" target="_blank" rel="noopener noreferrer">Beneficios de tocar guitarra según la ciencia</a>.
 

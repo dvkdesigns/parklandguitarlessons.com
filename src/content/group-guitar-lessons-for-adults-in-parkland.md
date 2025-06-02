@@ -20,7 +20,7 @@ Looking for a more social, interactive way to learn guitar? Group guitar lessons
 - **Shared Progress:** Gain confidence by seeing and hearing how others improve.
 - **Affordability:** Group sessions are often more budget-friendly.
 
-Want a breakdown of group vs. private instruction? Read our [Private vs. Group Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons) post.
+Want a breakdown of group vs. private instruction? Read our [Private vs. Group Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons-whats-best-for-you-whats-best-for-you) post.
 
 ### Who Is This For?
 
@@ -30,7 +30,7 @@ Our group classes are perfect for:
 - Friends or couples wanting to learn together
 - Anyone looking to build guitar skills without the pressure of solo instruction
 
-Explore the benefits of learning later in life with our blog on [Why Adults in Parkland Are Choosing to Learn Guitar](https://www.parklandguitarlessons.com/guitar-chalk/adults-learning-guitar).
+Explore the benefits of learning later in life with our blog on [Why Adults in Parkland Are Choosing to Learn Guitar](https://www.parklandguitarlessons.com/guitar-chalk/adult-guitar-lessons-parkland).
 
 Curious about the day-to-day experience? Read [A Day in the Life of a Parkland Guitar Student](https://www.parklandguitarlessons.com/guitar-chalk/a-day-in-the-life-of-a-parkland-guitar-student).
 

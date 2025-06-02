@@ -31,6 +31,6 @@ We offer on-site group classes, private home visits, and music nights in:
 Also see:
 
 - [Group Guitar for Adults](https://www.parklandguitarlessons.com/guitar-chalk/group-guitar-lessons-for-adults-in-parkland)
-- [Adult Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/adults-learning-guitar)
+- [Adult Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/adult-guitar-lessons-parkland)
 
 ---

@@ -21,7 +21,7 @@ Guitar is more than music — it’s meditation, memory training, and pure joy.
 
 Learn more:
 
-- [Adult Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/adults-learning-guitar)
+- [Adult Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/adult-guitar-lessons-parkland)
 - [Group Guitar in Parkland](https://www.parklandguitarlessons.com/guitar-chalk/group-guitar-lessons-for-adults-in-parkland)
 
 [Get started today](https://www.parklandguitarlessons.com/contact) with private or group lessons for your Deerfield Beach community.

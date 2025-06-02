@@ -28,7 +28,7 @@ Works great for:
 Explore these success stories:
 
 - [A Day in the Life of a Parkland Guitar Student](https://www.parklandguitarlessons.com/guitar-chalk/a-day-in-the-life-of-a-parkland-guitar-student)
-- [Private vs. Group Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons)
+- [Private vs. Group Guitar Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons-whats-best-for-you-whats-best-for-you)
 
 [Book a trial session or HOA event now](https://www.parklandguitarlessons.com/contact)
 

@@ -24,7 +24,7 @@ Many country club members at places like Broken Sound, Boca Lago, and Addison Re
 Explore more:
 
 - [Guitar Lessons Boca Raton](https://www.parklandguitarlessons.com/guitar-lessons-boca-raton-fl)
-- [Private vs. Group Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons)
+- [Private vs. Group Lessons](https://www.parklandguitarlessons.com/guitar-chalk/private-vs-group-guitar-lessons-whats-best-for-you-whats-best-for-you)
 
 [Get started today](https://www.parklandguitarlessons.com/contact)
 

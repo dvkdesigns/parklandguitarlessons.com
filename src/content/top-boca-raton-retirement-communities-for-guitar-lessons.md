@@ -27,7 +27,7 @@ Music is ageless. Here are Boca’s top 55+ communities offering guitar lessons:
 
 Helpful reads:
 
-- [Why Adults in Parkland Are Choosing to Learn Guitar](https://www.parklandguitarlessons.com/guitar-chalk/adults-learning-guitar)
+- [Why Adults in Parkland Are Choosing to Learn Guitar](https://www.parklandguitarlessons.com/guitar-chalk/adult-guitar-lessons-parkland)
 - [Essential Maintenance for Your Guitar](https://www.parklandguitarlessons.com/guitar-chalk/essential-tips-for-maintaining-your-guitar-in-florida's-climate)
 
 [Book a session](https://www.parklandguitarlessons.com/contact)
