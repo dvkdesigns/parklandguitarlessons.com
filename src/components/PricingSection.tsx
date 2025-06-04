@@ -65,6 +65,11 @@ export default function PricingSection() {
       price: "$980",
       features: ["Join/Start a Band, Solo Project", "Performance Opportunities", "Income Opportunities", "Email/Text support", "24 Week Course"],
     },
+     {
+      name: "Ultimate Guitar Masterclass - 52 Week Beginner-Advanced Course",
+      price: "$2500",
+      features: ["Multiple Teachers", "All Styles Covered", "Income Opportunities", "Email/Text support", "1 year weekly Course"],
+    },
   ];
 
   const displayedPlans = showAll ? plans : plans.slice(0, 3);
