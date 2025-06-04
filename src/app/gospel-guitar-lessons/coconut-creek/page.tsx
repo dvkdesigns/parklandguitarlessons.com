@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Coconut Creek FL | Christian Guitar Instructor',
   description: 'Looking for gospel guitar lessons in Coconut Creek? Learn praise & worship guitar from a local instructor with faith-based training. Virtual & in-home available.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-coconut-creek',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/coconut-creek',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsCoconutCreek() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Private gospel guitar lessons available in Coconut Creek, FL. Learn worship songs, gospel rhythm, and faith-driven techniques from a local teacher.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-coconut-creek",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/coconut-creek",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsCoconutCreek() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Coconut Creek, FL"

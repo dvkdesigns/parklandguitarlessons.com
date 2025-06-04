@@ -40,7 +40,7 @@ export default function Home() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234", // Replace with your real number
+            "telephone": "+1-954-249-8837", // Replace with your real number
             "areaServed": {
               "@type": "Place",
               "name": "Parkland, FL and surrounding areas"

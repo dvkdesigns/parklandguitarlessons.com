@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in North Lauderdale FL | Worship Music Classes',
   description: 'Christian gospel guitar lessons in North Lauderdale, FL. Learn praise & worship guitar from a local instructor in-home or virtually. All ages welcome.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-north-lauderdale',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/north-lauderdale',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsNorthLauderdale() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Private gospel guitar lessons in North Lauderdale, FL. Learn gospel chords, praise rhythms, and worship team techniques in-home or online.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-north-lauderdale",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/north-lauderdale",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsNorthLauderdale() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "North Lauderdale, FL"

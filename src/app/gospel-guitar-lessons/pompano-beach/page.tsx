@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Pompano Beach FL | Christian Guitar Teacher',
   description: 'Learn gospel guitar in Pompano Beach, FL with a faith-driven instructor. In-home or virtual lessons for worship music, gospel strumming, and Christian songs.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-pompano-beach',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/pompano-beach',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsPompanoBeach() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Offering gospel guitar lessons in Pompano Beach, FL. Learn praise & worship guitar, gospel chords, and spiritual rhythms with a local Christian teacher.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-pompano-beach",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/pompano-beach",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsPompanoBeach() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Pompano Beach, FL"

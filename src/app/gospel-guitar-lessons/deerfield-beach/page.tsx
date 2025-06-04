@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Deerfield Beach FL | Worship Music Classes',
   description: 'Faith-based gospel guitar lessons in Deerfield Beach, FL. Learn praise & worship guitar with in-home or online instruction from a Christian teacher.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-deerfield-beach',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/deerfield-beach',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsDeerfieldBeach() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Offering gospel guitar lessons in Deerfield Beach, FL. Learn praise & worship music from a local Christian instructor with private or online sessions.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-deerfield-beach",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/deerfield-beach",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsDeerfieldBeach() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Deerfield Beach, FL"

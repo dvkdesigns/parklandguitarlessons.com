@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Coral Springs FL | Worship Guitar Teacher',
   description: 'Gospel guitar lessons in Coral Springs with a faith-first approach. Learn praise & worship guitar, gospel chords, and more from a local instructor.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-coral-springs',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/coral-springs',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsCoralSprings() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Offering gospel guitar lessons in Coral Springs, FL. Focused on Christian songs, worship strumming, and gospel progressions for all ages.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-coral-springs",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/coral-springs",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsCoralSprings() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Coral Springs, FL"

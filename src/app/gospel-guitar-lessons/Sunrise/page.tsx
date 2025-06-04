@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Sunrise FL | Christian Guitar Teacher',
   description: 'Learn gospel guitar in Sunrise, FL with private or virtual lessons. Christian-focused instruction for worship music, gospel rhythm, and praise songs.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-sunrise',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/sunrise',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsSunrise() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Faith-based gospel guitar lessons in Sunrise, FL. Learn Christian songs, gospel chords, and worship technique with a local teacher in-home or online.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-sunrise",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/sunrise",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsSunrise() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Sunrise, FL"

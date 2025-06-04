@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Dania Beach FL | Christian Music Classes Near You',
   description: 'Gospel guitar lessons in Dania Beach, FL. Learn praise & worship music, gospel strumming, and Christian songs with a private local instructor.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-dania-beach',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/dania-beach',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsDaniaBeach() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Private gospel guitar lessons in Dania Beach, FL. Learn worship chords, gospel rhythm, and Christian guitar playing from a local instructor.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-dania-beach",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/dania-beach",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsDaniaBeach() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Dania Beach, FL"

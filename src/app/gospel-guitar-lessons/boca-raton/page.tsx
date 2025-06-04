@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Boca Raton FL | Worship Guitar Classes',
   description: 'Learn gospel guitar in Boca Raton, FL with personalized Christian guitar lessons. In-home or online worship music training available now.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-boca-raton',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/boca-raton',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsBocaRaton() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Gospel guitar lessons now available in Boca Raton, FL. Learn praise & worship guitar with a local Christian teacher. In-home and virtual lessons offered.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-boca-raton",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/boca-raton",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsBocaRaton() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Boca Raton, FL"

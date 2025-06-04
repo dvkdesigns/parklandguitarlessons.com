@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Hallandale Beach FL | Faith-Based Guitar Instructor',
   description: 'Private gospel guitar lessons in Hallandale Beach, FL. Learn worship guitar, gospel rhythms, and Christian songs in-home or online with a local teacher.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-hallandale-beach',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/hallandale-beach',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsHallandaleBeach() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Faith-based gospel guitar instruction in Hallandale Beach, FL. Learn Christian music, gospel strumming, and praise progressions with private or virtual lessons.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-hallandale-beach",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/hallandale-beach",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsHallandaleBeach() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Hallandale Beach, FL"

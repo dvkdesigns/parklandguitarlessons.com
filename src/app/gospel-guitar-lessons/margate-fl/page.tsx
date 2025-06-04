@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Margate FL | Private Christian Guitar Teacher',
   description: 'Faith-based gospel guitar lessons in Margate, FL. Learn Christian songs, gospel chords, and worship techniques from a private local instructor.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-margate',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/margate',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsMargate() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Gospel guitar lessons available in Margate, FL. Learn praise and worship guitar with a local Christian instructor. In-home and virtual options.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-margate",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/margate",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsMargate() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Margate, FL"

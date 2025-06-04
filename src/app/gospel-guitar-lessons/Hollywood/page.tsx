@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Hollywood FL | Christian Guitar Teacher Near You',
   description: 'Faith-based gospel guitar lessons in Hollywood, FL. Learn worship guitar, gospel strumming, and Christian music from a local private instructor.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-hollywood',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/hollywood',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsHollywood() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Private gospel guitar lessons in Hollywood, FL. Learn praise & worship music, gospel chords, and spiritual rhythm in-home or online.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-hollywood",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/hollywood",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsHollywood() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Hollywood, FL"

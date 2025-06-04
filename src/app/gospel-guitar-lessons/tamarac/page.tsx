@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Tamarac FL | Worship Guitar Instructor',
   description: 'Learn gospel guitar in Tamarac, FL with a local instructor. Private praise & worship guitar classes for all ages. In-home or virtual available.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-tamarac',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/tamarac',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsTamarac() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Offering gospel guitar lessons in Tamarac, FL. Learn praise and worship guitar with a Christian instructor. In-home and online sessions available.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-tamarac",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/tamarac",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsTamarac() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Tamarac, FL"

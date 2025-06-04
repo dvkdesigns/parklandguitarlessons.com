@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Parkland FL | Private Christian Guitar Classes',
   description: 'Faith-based gospel guitar lessons in Parkland, FL. Learn praise & worship songs, gospel chord progressions, and more with a private local teacher.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-parkland',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/parkland',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsParkland() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Private gospel guitar lessons based in Parkland, FL. Specializing in praise and worship guitar, Christian songs, and beginner-friendly faith-based instruction.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-parkland",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/parkland",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsParkland() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Parkland, FL"

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Gospel Guitar Lessons in Pembroke Park FL | Christian Guitar Instructor Near You',
   description: 'Private gospel guitar lessons in Pembroke Park, FL. Learn Christian songs, gospel rhythms, and worship music in-home or online with a local teacher.',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons-pembroke-park',
+    canonical: 'https://www.parklandguitarlessons.com/gospel-guitar-lessons/pembroke-park',
   },
 };
 
@@ -25,7 +25,7 @@ export default function GospelGuitarLessonsPembrokePark() {
             "@type": "LocalBusiness",
             "name": "Parkland Guitar Lessons",
             "description": "Faith-based gospel guitar instruction in Pembroke Park, FL. Learn worship music, gospel chords, and praise progressions from a local instructor.",
-            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons-pembroke-park",
+            "url": "https://www.parklandguitarlessons.com/gospel-guitar-lessons/pembroke-park",
             "image": "https://www.parklandguitarlessons.com/images/gospel-hero.webp",
             "address": {
               "@type": "PostalAddress",
@@ -33,7 +33,7 @@ export default function GospelGuitarLessonsPembrokePark() {
               "addressRegion": "FL",
               "addressCountry": "US"
             },
-            "telephone": "+1-954-555-1234",
+            "telephone": "+1-954-249-8837",
             "areaServed": {
               "@type": "Place",
               "name": "Pembroke Park, FL"
