@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import ButtonLink from './ButtonLink';
 
 export default function CallToActionSection() {

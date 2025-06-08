@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Acoustic Guitar Lessons in North Lauderdale, FL | Parkland Guitar Lessons',
   description: 'Tailored acoustic guitar lessons in North Lauderdale, FL. Expert instruction for all ages and skill levels. Book your first lesson today!',
   alternates: {
-    canonical: 'https://www.parklandguitarlessons.com/acoustic-guitar-lessons/north-lauderdale-fl',
+    canonical: 'https://www.parklandguitarlessons.com/acoustic-guitar-lessons/north-lauderdale',
   },
 };
 
