@@ -10,8 +10,8 @@ export default function BookingWidget() {
           footer {
             display: none;
           }
-          #sb_frame_93036079607 {
-            padding: 0 30%;
+          iframe {
+            padding: 0 30% !important;
           }
         `}
       </style>
