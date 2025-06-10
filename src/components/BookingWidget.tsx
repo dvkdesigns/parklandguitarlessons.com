@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import Script from 'next/script';
+import Script from "next/script";
 
 export default function BookingWidget() {
   return (
@@ -10,7 +10,11 @@ export default function BookingWidget() {
       {/* Correct way to apply styles in JSX */}
       <style jsx global>{`
         /* Attempt to hide external footer */
-        footer, .jsx-52f278c42e36afd0 {
+        footer {
+          display: none !important;
+        }
+        [class^="jsx-"] {
+          /* styles here */
           display: none !important;
         }
 
