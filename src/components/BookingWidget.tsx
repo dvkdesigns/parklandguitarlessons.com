@@ -17,6 +17,9 @@ export default function BookingWidget() {
           /* styles here */
           display: none !important;
         }
+        #student-portal {
+          display: none !important;
+        }
 
         /* Additional common fix: Prevent weird positioning */
         #mymusicstaff-widget {

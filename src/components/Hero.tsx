@@ -1,4 +1,4 @@
-import ButtonLink from './ButtonLink';
+import ButtonLink from "./ButtonLink";
 
 type HeroProps = {
   title: string;
@@ -10,7 +10,14 @@ type HeroProps = {
   imageSrc?: string;
 };
 
-export default function Hero({ title, subtitle, herocopy1, herocopy2,herocopy3, imageSrc }: HeroProps) {
+export default function Hero({
+  title,
+  subtitle,
+  herocopy1,
+  herocopy2,
+  herocopy3,
+  imageSrc,
+}: HeroProps) {
   return (
     <section className="relative bg-white min-h-[650px] flex items-start justify-start overflow-hidden max-w-[1200px] mx-auto">
       {/* TEXT ACROSS TOP */}
@@ -22,14 +29,18 @@ export default function Hero({ title, subtitle, herocopy1, herocopy2,herocopy3, 
           {subtitle && (
             <p className="text-lg text-gray-700 max-w-3xl mb-8">{subtitle}</p>
           )}
-          {(<p className="text-lg text-gray-700 max-w-3xl mb-8">{herocopy1}</p>
-          )}
-          {(<p className="text-lg text-gray-700 max-w-3xl mb-8">{herocopy2}</p>
-          )}
-          {(<p className="text-lg text-gray-700 max-w-[600px] mb-8">{herocopy3}</p>
-          )}
-          <ButtonLink href="/contact" label="Get Started" size="xl" />
-
+          {<p className="text-lg text-gray-700 max-w-3xl mb-8">{herocopy1}</p>}
+          {<p className="text-lg text-gray-700 max-w-3xl mb-8">{herocopy2}</p>}
+          {
+            <p className="text-lg text-gray-700 max-w-[600px] mb-8">
+              {herocopy3}
+            </p>
+          }
+          <ButtonLink
+            href="/booking-and-availability"
+            label="Book your First Lesson"
+            size="xl"
+          />
         </div>
       </div>
 
@@ -40,7 +51,7 @@ export default function Hero({ title, subtitle, herocopy1, herocopy2,herocopy3, 
             src={imageSrc}
             alt="Hero"
             width={800}
-  height={600}
+            height={600}
             className="w-full h-auto object-contain pointer-events-none hero-image"
           />
         </div>

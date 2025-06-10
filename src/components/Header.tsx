@@ -47,20 +47,47 @@ export default function Header() {
         </div>
 
         <nav className="mt-4 flex justify-center gap-8 text-sm text-black">
-          <Link href="/online-guitar-tuner" className="hover:underline">
-            Tuner
+          <Link href="/booking-and-availability" className="hover:underline">
+            Booking & Availability
           </Link>
-          <Link href="/online-metronome" className="hover:underline">
-            Metronome
-          </Link>
-          <Link href="/online-guitar-chord-library" className="hover:underline">
-            Chord Library
-          </Link>
+
+          <details className="relative group">
+            <summary className="cursor-pointer hover:underline list-none">
+              Guitar Tools
+            </summary>
+            <div className="absolute bg-white border rounded-md shadow-md mt-2 p-2 hidden group-open:block z-50">
+              <Link
+                href="/online-guitar-tuner"
+                className="block px-4 py-2 hover:bg-gray-100"
+              >
+                Tuner
+              </Link>
+              <Link
+                href="/online-metronome"
+                className="block px-4 py-2 hover:bg-gray-100"
+              >
+                Metronome
+              </Link>
+              <Link
+                href="/online-guitar-chord-library"
+                className="block px-4 py-2 hover:bg-gray-100"
+              >
+                Chord Library
+              </Link>
+            </div>
+          </details>
+
           <Link href="/guitar-chalk" className="hover:underline">
             Guitar Chalk
           </Link>
           <Link href="/contact" className="hover:underline">
-            Contact
+            Contact Us
+          </Link>
+          <Link href="/about-us" className="hover:underline">
+            About Us
+          </Link>
+          <Link href="/student-portal" className="hover:underline">
+            Student Portal
           </Link>
         </nav>
       </div>
