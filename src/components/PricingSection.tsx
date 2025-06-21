@@ -7,9 +7,9 @@ export default function PricingSection() {
 
   const plans = [
     {
-      name: "Weekly Lessons",
+      name: "Guitar Lessons",
       price: "$45",
-      url: "/guitar-lesson-packages/weekly-lessons",
+      url: "/booking-and-availability",
       features: [
         "30 minute, 1-on-1 private session",
         "Flexible schedule",
@@ -18,60 +18,104 @@ export default function PricingSection() {
       ],
     },
     {
-      name: "Virtual Lessons",
-      price: "$40",
-      url: "/guitar-lesson-packages/virtual-lessons",
+      name: "Bass Lessons",
+      price: "$45",
+      url: "/booking-and-availability",
       features: [
         "30 minute, 1-on-1 private session",
-        "Zoom or FaceTime",
-        "Chat/Text support",
-        "Printable Handouts",
-      ],
-    },
-    {
-      name: "Duo Lessons (2 Students)",
-      price: "$45 per student",
-      url: "/guitar-lesson-packages/duo-lessons",
-      features: [
-        "1-hour group session",
-        "Flexible schedule",
-        "Fun, Interactive",
-        "Printable Handouts",
-      ],
-    },
-    {
-      name: "Small Group (3–5 Students)",
-      price: "$35 per student",
-      url: "/guitar-lesson-packages/small-group-lessons",
-      features: [
-        "1-hour group session",
-        "Flexible schedule",
-        "Fun, interactive",
-        "Printable Handouts",
-      ],
-    },
-    {
-      name: "Large Group (6–10 Students)",
-      price: "$25 per student",
-      url: "/guitar-lesson-packages/large-group-lessons",
-      features: [
-        "1-hour session",
-        "Song-based learning",
-        "Flexible schedule",
-        "Printable Handouts",
-      ],
-    },
-    {
-      name: "4 Lesson Package - Weekly Lessons",
-      price: "$180",
-      url: "/guitar-lesson-packages/4-lesson-package",
-      features: [
-        "1-on-1 private session",
         "Flexible schedule",
         "Email/Text support",
         "Printable Handouts",
       ],
     },
+    {
+      name: "Piano Lessons",
+      price: "$55",
+      url: "/booking-and-availability",
+      features: [
+        "30 minute, 1-on-1 private session",
+        "Flexible schedule",
+        "Email/Text support",
+        "Printable Handouts",
+      ],
+    },
+    {
+      name: "Drum Lessons",
+      price: "$65",
+      url: "/booking-and-availability",
+      features: [
+        "45 minute, 1-on-1 private session",
+        "Flexible schedule",
+        "Email/Text support",
+        "Printable Handouts",
+      ],
+    },
+    // {
+    //   name: "Guitar or Bass Lessons",
+    //   price: "$45",
+    //   url: "/booking-and-availability",
+    //   features: [
+    //     "30 minute, 1-on-1 private session",
+    //     "Flexible schedule",
+    //     "Email/Text support",
+    //     "Printable Handouts",
+    //   ],
+    // },
+    // {
+    //   name: "Virtual Lessons",
+    //   price: "$40",
+    //   url: "/guitar-lesson-packages/virtual-lessons",
+    //   features: [
+    //     "30 minute, 1-on-1 private session",
+    //     "Zoom or FaceTime",
+    //     "Chat/Text support",
+    //     "Printable Handouts",
+    //   ],
+    // },
+    // {
+    //   name: "Duo Lessons (2 Students)",
+    //   price: "$45 per student",
+    //   url: "/guitar-lesson-packages/duo-lessons",
+    //   features: [
+    //     "1-hour group session",
+    //     "Flexible schedule",
+    //     "Fun, Interactive",
+    //     "Printable Handouts",
+    //   ],
+    // },
+    // {
+    //   name: "Small Group (3–5 Students)",
+    //   price: "$35 per student",
+    //   url: "/guitar-lesson-packages/small-group-lessons",
+    //   features: [
+    //     "1-hour group session",
+    //     "Flexible schedule",
+    //     "Fun, interactive",
+    //     "Printable Handouts",
+    //   ],
+    // },
+    // {
+    //   name: "Large Group (6–10 Students)",
+    //   price: "$25 per student",
+    //   url: "/guitar-lesson-packages/large-group-lessons",
+    //   features: [
+    //     "1-hour session",
+    //     "Song-based learning",
+    //     "Flexible schedule",
+    //     "Printable Handouts",
+    //   ],
+    // },
+    // {
+    //   name: "4 Lesson Package - Weekly Lessons",
+    //   price: "$180",
+    //   url: "/guitar-lesson-packages/4-lesson-package",
+    //   features: [
+    //     "1-on-1 private session",
+    //     "Flexible schedule",
+    //     "Email/Text support",
+    //     "Printable Handouts",
+    //   ],
+    // },
     // {
     //   name: "Mechanics of Acoustic Guitar - 12 Week Beginner Course",
     //   price: "$540",
