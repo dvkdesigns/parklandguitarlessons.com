@@ -10,7 +10,12 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <main className="max-w-4xl mx-auto px-4 py-12">
-      <h1 className="text-4xl font-bold mb-6">About Me</h1>
+      <h1 className="text-4xl font-bold mb-6">About Us</h1>
+
+      <h2>Dan Kariamis</h2>
+      <h3>Founder of Parkland Guitar Lessons</h3>
+      <h4>Musician, Guitar Teacher and Father</h4>
+      <h4 className="mb-10">Specializes in Acoustic, Electric and Bass.</h4>
 
       <p className="text-lg mb-6">
         <strong>Hi, I’m Dan Kariamis</strong> — musician, teacher, web

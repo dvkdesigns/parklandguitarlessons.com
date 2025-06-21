@@ -47,9 +47,9 @@ export default function Header() {
         </div>
 
         <nav className="mt-4 flex justify-center gap-8 text-sm text-black">
-          <Link href="/booking-and-availability" className="hover:underline">
+          {/* <Link href="/booking-and-availability" className="hover:underline">
             Booking & Availability
-          </Link>
+          </Link> */}
 
           <details className="relative group">
             <summary className="cursor-pointer hover:underline list-none">
@@ -86,9 +86,9 @@ export default function Header() {
           <Link href="/about-us" className="hover:underline">
             About Us
           </Link>
-          <Link href="/student-portal" className="hover:underline">
+          {/* <Link href="/student-portal" className="hover:underline">
             Student Portal
-          </Link>
+          </Link> */}
         </nav>
       </div>
     </header>

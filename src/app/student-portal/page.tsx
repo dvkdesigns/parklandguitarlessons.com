@@ -2,9 +2,9 @@ import StudentPortalLoginWidget from "@/components/StudentPortalLoginWidget";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Student Portal Login | Parkland Guitar Lessons",
+  title: "Parkland Student Portal | Parkland Guitar Lessons",
   description:
-    "Log in to the Parkland Guitar Lessons student portal to access lesson resources, schedule updates, and more.",
+    "Access your personalized Parkland Student Portal. Schedule lessons, view resources, and track your progress with Parkland Guitar Lessons.",
   alternates: {
     canonical: "https://www.parklandguitarlessons.com/student-portal",
   },

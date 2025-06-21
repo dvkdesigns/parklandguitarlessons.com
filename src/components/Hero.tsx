@@ -52,7 +52,7 @@ export default function Hero({
             alt="Hero"
             width={800}
             height={600}
-            className="w-full h-auto object-contain pointer-events-none hero-image"
+            className="w-full h-auto object-contain pointer-events-none hero-image hidden md:block"
           />
         </div>
       )}
