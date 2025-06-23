@@ -173,16 +173,17 @@ export default function AboutPage() {
           in Melbourne, Florida, Dylan Selph is a passionate guitarist and
           performer with deep roots in the local music scene. Known for his
           high-energy performances and uncanny impersonation of Angus Young,
-          Dylan plays lead guitar for Razor’s Edge, an AC/DC tribute band made
-          up of seasoned rock musicians.
+          Dylan plays lead guitar and is a National Touring Musician with Razors
+          Edge a Tribute to AC/DC.
         </p>
 
         <p className="mb-6">
-          Now offering guitar lessons in Melbourne, FL, Dylan brings stage
-          experience and a love for rock ‘n’ roll into every lesson. Whether
-          you're picking up a guitar for the first time or looking to refine
-          your lead playing, Dylan can help you grow with personalized
-          instruction tailored to your goals.
+          Now offering guitar lessons in Melbourne, FL, he can teach all styles
+          of music Country, Rock, Jazz, Blues, Bluegrass, Metal, RnB Pop, you
+          name it ! Dylan brings stage experience and a love for teaching music
+          into every lesson. Whether you're picking up a guitar for the first
+          time or looking to refine your lead playing, Dylan can help you grow
+          with personalized instruction tailored to your goals.
         </p>
 
         <p className="mb-6">
