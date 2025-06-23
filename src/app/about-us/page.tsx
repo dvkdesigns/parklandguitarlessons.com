@@ -178,16 +178,23 @@ export default function AboutPage() {
         </p>
 
         <p className="mb-6">
-          Now offering guitar lessons in Melbourne, FL, he can teach all styles
-          of music Country, Rock, Jazz, Blues, Bluegrass, Metal, RnB Pop, you
-          name it ! Dylan brings stage experience and a love for teaching music
-          into every lesson. Whether you're picking up a guitar for the first
-          time or looking to refine your lead playing, Dylan can help you grow
-          with personalized instruction tailored to your goals.
+          Now offering{" "}
+          <a href="/guitar-lessons-melbourne-fl">
+            guitar lessons in Melbourne, FL
+          </a>
+          , he can teach all styles of music Country, Rock, Jazz, Blues,
+          Bluegrass, Metal, RnB Pop, you name it ! Dylan brings stage experience
+          and a love for teaching music into every lesson. Whether you're
+          picking up a guitar for the first time or looking to refine your lead
+          playing, Dylan can help you grow with personalized instruction
+          tailored to your goals.
         </p>
 
         <p className="mb-6">
-          🎸 Ready to rock? Book a lesson with Dylan in Melbourne today
+          🎸 Ready to rock?{" "}
+          <a href="/booking-and-availability">
+            Book a lesson with Dylan in Melbourne today
+          </a>
         </p>
 
         <p className="text-xl font-bold">– Dylan</p>
