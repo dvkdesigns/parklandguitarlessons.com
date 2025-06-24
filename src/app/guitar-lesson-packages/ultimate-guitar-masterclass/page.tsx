@@ -46,7 +46,7 @@ export default function Home() {
         herocopy1="Ready to go all in? This one-year masterclass is the ultimate guitar journey for beginners and intermediate players who want to reach the next level."
         herocopy2="Work with a teacher 2x a week for a full year across every style — from rock, blues, funk, gospel, and jazz to pop, country, and metal. Weekly instruction, real-world performance prep, and personalized feedback are all included."
         herocopy3="Whether you dream of recording music, performing live, or teaching, this course gives you the tools, mentorship, and potential income opportunities to build your music path."
-        imageSrc="/images/guitar-masterclass-hero.webp"
+        imageSrc="/images/acoustic-hero.webp"
       />
 
       <div className="max-w-4xl mx-auto px-6 py-10 bg-white rounded-lg shadow-md">
