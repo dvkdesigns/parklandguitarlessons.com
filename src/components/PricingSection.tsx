@@ -176,14 +176,14 @@ export default function PricingSection() {
     // },
     {
       name: "Ultimate Guitar Masterclass - 52 Week Beginner-Advanced Course",
-      price: "$2500",
+      price: "$5500",
       url: "/guitar-lesson-packages/ultimate-guitar-masterclass",
       features: [
-        "Multiple Teachers",
+        "52 Hours Teachers",
         "All Styles Covered",
         "Income Opportunities",
         "Email/Text support",
-        "1 year weekly Course",
+        "1 year weekly Course (104 total Lessons)",
       ],
     },
   ];
