@@ -30,7 +30,14 @@ export default function Hero({
             <p className="text-lg text-gray-700 max-w-3xl mb-8">{subtitle}</p>
           )}
           {<p className="text-lg text-gray-700 max-w-3xl mb-8">{herocopy1}</p>}
-          {<p className="text-lg text-gray-700 max-w-3xl mb-8">{herocopy2}</p>}
+          {
+            <p
+              style={{ whiteSpace: "pre-line" }}
+              className="text-lg text-gray-700 max-w-3xl mb-8"
+            >
+              {herocopy2}
+            </p>
+          }
           {
             <p className="text-lg text-gray-700 max-w-[600px] mb-8">
               {herocopy3}
